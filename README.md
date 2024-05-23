@@ -1,3 +1,1 @@
-A personal project I have been working on...
-
-It is an app which tracks ones impulse and habitual spending to help show how much money you spend on coffee, energy drinks, cigarettes/vaping, gum, etc. to help you break these habits and impulses by showing hwo much money you could have if you did not make those purchases.  
+It is an app which tracks ones impulse and habitual spending to help show how much money you spend on coffee, energy drinks, cigarettes/vaping, gum, etc. to help you break these habits and impulses by showing how much money you could have if you did not make those purchases.  
